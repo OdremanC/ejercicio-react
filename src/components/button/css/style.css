@@ -1,0 +1,37 @@
+.success {
+    width: 261px;
+    height: 40px;
+    background-color: #04B4AE;
+    color: white;
+    border: 0;
+    font-size: 20px;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.disabled {
+    width: 261px;
+    height: 40px;
+    background-color: #6E6E6E;
+    color: white;
+    border: 0;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.detai {
+    width: 127px;
+    height: 40px;
+    background-color: #0174DF;
+    color: white;
+    border: 0;
+    font-weight: bold;
+    font-size: 12px;
+    margin-left: 10px;
+    padding: 0;
+    display: inline-flex;
+    font-family: 'Montserrat', sans-serif;
+}

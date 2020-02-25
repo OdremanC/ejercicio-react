@@ -1,0 +1,22 @@
+.container-slider{
+    width: 400px;
+    display: inline-block;
+    margin-bottom: 60px;
+  }
+
+  .input-amount {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center; 
+  }
+
+  .amount-title {
+    color: white;
+  }
+
+  .slider-amount {
+    width: 300px;
+    height: auto;
+    display: inline-block;
+  }
